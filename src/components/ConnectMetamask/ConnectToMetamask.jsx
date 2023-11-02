@@ -23,6 +23,8 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
           Multi-Level Marketing Ethereum
         </h3>
 
+        <img src="images/main.png" width="100%" alt="Herbalife Pepe" />
+
                     <p className="p-2">
 
                     <a href="https://github.com/#" ><i class="fab fa-github large-icon"></i></a>
