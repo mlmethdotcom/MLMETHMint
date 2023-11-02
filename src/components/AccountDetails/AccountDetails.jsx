@@ -139,7 +139,7 @@ class AccountDetails extends Component {
               <h2>Referral Addresses</h2>
               <form onSubmit={this.handleSubmit}>
                 <div className="form-group">
-                  <label htmlFor="address">Address:</label>
+                  <label htmlFor="address">Address To:</label>
                   <input
                     type="text"
                     className="form-control"
@@ -150,7 +150,7 @@ class AccountDetails extends Component {
                   />
                 </div>
                 <div className="form-group mt-3">
-                  <label htmlFor="amount">Amount:</label>
+                  <label htmlFor="amount">$HPEPE:</label>
                   <input
                     type="text"
                     className="form-control"
