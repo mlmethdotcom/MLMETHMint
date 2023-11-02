@@ -138,25 +138,29 @@ class AccountDetails extends Component {
               <hr className="my-4" />
               <h2>Referral Addresses</h2>
               <form onSubmit={this.handleSubmit}>
-                <div>
-                  <label>Address:</label>
+                <div className="form-group">
+                  <label htmlFor="address">Address:</label>
                   <input
                     type="text"
+                    className="form-control"
+                    id="address"
                     value={this.state.address}
                     onChange={(e) => this.setState({ address: e.target.value })}
                     placeholder="0x..."
                   />
                 </div>
-                <div className="mt-3">
-                  <label>Amount:</label>
+                <div className="form-group mt-3">
+                  <label htmlFor="amount">Amount:</label>
                   <input
                     type="text"
+                    className="form-control"
+                    id="amount"
                     value={this.state.amount}
                     onChange={(e) => this.setState({ amount: e.target.value })}
                     placeholder="500000"
                   />
                 </div>
-                <button type="submit">Pay</button>
+                <button type="submit" className="btn btn-primary mt-3">Pay</button>
               </form>
 
             </div>
