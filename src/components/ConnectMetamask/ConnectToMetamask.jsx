@@ -20,11 +20,26 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
           MLMETH
         </h1>
         <h3 className="display-5 p-4 text-center">
-          Multi-Level Marketing Ethereum
+          The Unique MLM Smart Contract Token
         </h3>
-
         <img src="images/main.png" width="100%" alt="Herbalife Pepe" />
-
+        <section>
+            <h2>Discover the Features</h2>
+            <ul>
+                <li><strong>Security and Transparency:</strong> Built on Ethereum, our smart contract ensures security and transparency.</li>
+                <li><strong>Register and Refer Easily:</strong> Join and refer others effortlessly using our 'registerPartyAddresses' function.</li>
+                <li><strong>Fair Compensation:</strong> Withdraw tokens based on the depth of your referral tree.</li>
+                <li><strong>Recursive Withdrawals:</strong> Grow your earnings as your referrals also withdraw tokens.</li>
+                <li><strong>Calculated Eligibility:</strong> Know your remaining eligible withdrawal with precision.</li>
+                <li><strong>Progressive Percentage Model:</strong> A unique model rewards deeper network growth.</li>
+                <li><strong>Easy Data Access:</strong> Retrieve data about registered addresses and total registrations.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Join Herbalife Pepe</h2>
+            <p>Experience the future of Multi Level Marketing with blockchain technology. Together, we're reshaping the way network marketing works.</p>
+            <a href="#join-now" class="cta-button">Join Now</a>
+        </section>
                     <p className="p-2">
 
                     <a href="https://github.com/#" ><i class="fab fa-github large-icon"></i></a>
