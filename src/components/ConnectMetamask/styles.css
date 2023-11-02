@@ -19,6 +19,9 @@ body {
 .display-5{
   color: #FFFFFF;
 }
+.display-5{
+  color: #000000;
+}
 .custom-jumbotron {
     padding-top: 20px;
     background-image: linear-gradient(to bottom, #45903A, #00BF63);

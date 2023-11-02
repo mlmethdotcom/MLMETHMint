@@ -131,7 +131,7 @@ class AccountDetails extends Component {
     return (
       <div>
         <div className="jumbotron">
-          <h1 className="display-5">
+          <h1 className="display-6">
           Unlock Unlimited Earnings with Multi-Level Marketing Referral Program!</h1>
           <div className="card col-md-12">
             <div className="card-body">
