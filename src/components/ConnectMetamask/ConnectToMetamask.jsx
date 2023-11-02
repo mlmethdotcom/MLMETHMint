@@ -24,7 +24,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         </h3>
         <img src="images/main.png" width="100%" alt="Herbalife Pepe" />
         <section>
-            <h2>Discover the Features</h2>
+            <h2 className="mt-4">Discover the Features</h2>
             <ul>
                 <li><strong>Security and Transparency:</strong> Built on Ethereum, our smart contract ensures security and transparency.</li>
                 <li><strong>Register and Refer Easily:</strong> Join and refer others effortlessly using our 'registerPartyAddresses' function.</li>

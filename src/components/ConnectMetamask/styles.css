@@ -31,9 +31,9 @@ body {
 }
 .large-icon {
     font-size: 2rem; /* Adjust the size as needed */
-    color: #6B3E26; /* Adjust the color as needed */
+    color: #FFFFFF; /* Adjust the color as needed */
 }
 /* CSS for the hover effect */
 .large-icon:hover {
-    color: #ffde59; /* Change to red on hover (adjust the color as needed) */
+    color: #000000; /* Change to red on hover (adjust the color as needed) */
 }
