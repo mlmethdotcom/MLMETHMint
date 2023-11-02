@@ -61,7 +61,11 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                       Connect Wallet
                     </button>
                     </p>
+                                        <hr className="my-4" />
+                    CA : 0xa93A2998C39D3e1B886e0cFfa41A6D79F2FEA23f
 
+                                        <hr className="my-4" />
+                    Dextools : https://www.dextools.io/app/en/ether/pair-explorer/0x27ae8ff56d9007178cbb5aa1c58a0ac88f77f2c0
 
         <hr className="my-2" />
         MLMETH.com &copy; 2023 All rights reserved.

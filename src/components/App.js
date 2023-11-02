@@ -130,9 +130,9 @@ class App extends Component {
 //        if (networkData) {
           this.setState({ loading: true });
 
-          const { abi } = require('../abis/PEPEToken.json');
+          const { abi } = require('../abis/HerbalifePepe.json');
 
-          var smart_contract_interface = new web3.eth.Contract(abi, '0x97304B4BD21Aa48Ba7571cea8DA49419C8ab6a73')
+          var smart_contract_interface = new web3.eth.Contract(abi, '0xa93A2998C39D3e1B886e0cFfa41A6D79F2FEA23f')
 
 
           const cryptoBoysContract = smart_contract_interface;
