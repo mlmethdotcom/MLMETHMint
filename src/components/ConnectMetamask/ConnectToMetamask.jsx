@@ -46,7 +46,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     &nbsp;&nbsp;
                     <a href="https://x.com/mlmeth_com" ><i class="fab fa-twitter large-icon"></i></a>
                     &nbsp;&nbsp;
-                    <a href="https://t.me/mlmeth" ><i class="fab fa-telegram large-icon"></i></a>
+                    <a href="https://t.me/mlmeth_com" ><i class="fab fa-telegram large-icon"></i></a>
                     &nbsp;&nbsp;
                     <a href="#" ><i class="fab fa-youtube large-icon"></i></a>
                     &nbsp;&nbsp;
