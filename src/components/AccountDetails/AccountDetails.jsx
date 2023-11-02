@@ -136,28 +136,27 @@ class AccountDetails extends Component {
           <div className="card col-md-12">
             <div className="card-body">
               <hr className="my-4" />
-              <p>
-                <a href={`/home/my_profile/`}>My Profile</a>
-              </p>
               <h2>Referral Addresses</h2>
               <form onSubmit={this.handleSubmit}>
                 <div>
-                  <label>Referral Address:</label>
+                  <label>Address:</label>
                   <input
                     type="text"
                     value={this.state.address}
                     onChange={(e) => this.setState({ address: e.target.value })}
+                    placeholder="0x..."
                   />
                 </div>
                 <div className="mt-3">
-                  <label>Bonus Amount:</label>
+                  <label>Amount:</label>
                   <input
                     type="text"
                     value={this.state.amount}
                     onChange={(e) => this.setState({ amount: e.target.value })}
+                    placeholder="500000"
                   />
                 </div>
-                <button type="submit">Register</button>
+                <button type="submit">Pay</button>
               </form>
 
             </div>
