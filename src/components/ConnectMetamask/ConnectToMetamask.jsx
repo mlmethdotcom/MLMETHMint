@@ -62,7 +62,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </button>
                     </p>
                                         <hr className="my-4" />
-                    CA : launching soon
+                    CA : 0xfDC97eF219075264C77a8FaA3769F201B4b49693
 
                                         <hr className="my-4" />
                     Dextools :
