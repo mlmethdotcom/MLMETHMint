@@ -36,7 +36,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
             </ul>
         </section>
         <section>
-            <h2>Join Herbalife Pepe</h2>
+            <h2>Join Harry Potter Herbalife Pepe Sam 10 Inu (SBF)</h2>
             <p>Experience the future of Multi Level Marketing with blockchain technology. Together, we're reshaping the way network marketing works.</p>
             <a href="#join-now" class="cta-button">Join Now</a>
         </section>
@@ -62,10 +62,10 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </button>
                     </p>
                                         <hr className="my-4" />
-                    CA : 0xa93A2998C39D3e1B886e0cFfa41A6D79F2FEA23f
+                    CA : launching soon
 
                                         <hr className="my-4" />
-                    Dextools : https://www.dextools.io/app/en/ether/pair-explorer/0x27ae8ff56d9007178cbb5aa1c58a0ac88f77f2c0
+                    Dextools :
 
         <hr className="my-2" />
         MLMETH.com &copy; 2023 All rights reserved.
